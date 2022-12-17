@@ -1,6 +1,7 @@
 #ifndef SHELL_H
 #define SHELL_H
 
+/* C Libraries */
 #include <stdio.h> /* for printf*/
 #include <unistd.h> /* for fork, execve*/
 #include <stdlib.h>
